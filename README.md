@@ -26,13 +26,12 @@
 
 ### 🔭 What I'm currently working on
 
-*   🎓 **Honors Thesis:** Integrating Continual Learning AI with Classical Control for Autonomous Robotics (Learning from Demonstration).
+*   🎓 **Honors Thesis:** Integrating Continual Learning AI with Classical Control for Autonomous Robotics.
 *   🏎️ **AutoModelCar:** Developing autonomous navigation software using **ROS 2**, **Gazebo**, and Computer Vision for the Torneo Mexicano de Robótica (TMR).
 *   🐳 **Homelab:** Managing a self-hosted Linux (Debian) environment with Docker containers.
 
 ### 🏆 Recent Highlights
 
-*   **Software Developer** - Designed the iOS frontend for *ResiApp* (SwiftUI) at the Enactus National Hackathon (2026).
 *   **Honorable Mention** - NASA Space Apps Challenge (2025).
 
 ---
